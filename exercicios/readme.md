@@ -1,0 +1,1 @@
+Alguns dos exercícios feitos na disciplina de ATDM (Análise e tratamentos de dados multivariados).

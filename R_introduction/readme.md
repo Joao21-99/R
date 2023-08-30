@@ -1,0 +1,1 @@
+Exercícios introdutórios que me permitiram dar o primeiros passos nesta linguagem.
